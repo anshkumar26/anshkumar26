@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **MongoDB, NextJS, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://anshfolio.netlify.app/](https://anshfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anshfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://ansh26.medium.com/](https://ansh26.medium.com/)
+- 📝 I regularly write articles on [Blog](https://ansh26.medium.com/)
 
 - 💬 Ask me about **JavaScript, C++, ReactJS,**
 
 - 📫 How to reach me **anshs0383@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RfxjYvIjmkEQUDZMKwrUKILn0abW9XTz/view?usp=drive_link](https://drive.google.com/file/d/1RfxjYvIjmkEQUDZMKwrUKILn0abW9XTz/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RfxjYvIjmkEQUDZMKwrUKILn0abW9XTz/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
