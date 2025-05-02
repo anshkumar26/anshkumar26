@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anshs0383@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RfxjYvIjmkEQUDZMKwrUKILn0abW9XTz/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12EnXSVIcDDAXeQ64TqzFwhDBKhj_2inp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
